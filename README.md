@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavSnek
 - 👀 I’m interested in Physics
-- 🌱 I’m currently learning GUI app, C++, Numerical methods for physics simulations.
+- 🌱 I’m currently learning CDF, computer modeling.
 - 📫 How to reach me: damiansnek@gmail.com
 
 <!---
