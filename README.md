@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavSnek
 - 👀 I’m interested in Physics
-- 🌱 I’m currently learning CDF, computer modeling.
+- 🌱 I’m currently learning CFD, computer modeling.
 - 📫 How to reach me: damiansnek@gmail.com
 
 <!---
